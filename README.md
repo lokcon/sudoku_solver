@@ -1,15 +1,15 @@
 # Sudoku Solver
 
-This Python script solves a relaxed N x N Sudoku grid, with only rows and columns constraints.
+This Python script solves a _relaxed_ N x N Sudoku grid, _with only constraints on rows and columns_.
 
 ## Input
-The scripts read the following from `stdin` (Standard Input)
+The script reads the following from `stdin` (Standard Input):
 - `n` - Size of the Sudoku Grid.
-- Followed by a new line, `n` lines of input, each containing exactly `n` characters, each representing a grid.
+- Followed by a new line each, `n` lines of input, each containing exactly `n` characters, each representing a grid.
 
 For each cell:
-- `1, 2, ... n`.
-- Any non digit characters represents an empty grid
+- `1, 2, ... n` as grid symbols.
+- Any non digit characters represents an empty grid.
 
 ### Example Input
 ```
