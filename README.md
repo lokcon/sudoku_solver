@@ -9,7 +9,7 @@ The script reads the following from `stdin` (Standard Input):
 
 For each cell:
 - `1, 2, ... n` as grid symbols.
-- Any non digit characters represents an empty cell.
+- Any non-digit character represents an empty cell.
 
 ### Example Input
 ```
