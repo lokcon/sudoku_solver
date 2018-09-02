@@ -5,11 +5,11 @@ This Python script solves a _relaxed_ N x N Sudoku grid, _with only constraints 
 ## Input
 The script reads the following from `stdin` (Standard Input):
 - `n` - Size of the Sudoku grid.
-- Followed by a new line each, `n` lines of input, each containing exactly `n` characters, each representing a grid cell.
+- Followed by a new line each, `n` lines of input, each containing exactly `n` characters, each representing a cell.
 
 For each cell:
 - `1, 2, ... n` as grid symbols.
-- Any non digit characters represents an empty grid.
+- Any non digit characters represents an empty cell.
 
 ### Example Input
 ```
