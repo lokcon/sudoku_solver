@@ -1,6 +1,6 @@
 # Sudoku Solver
 
-This Python script solves a relaxed N x N Suduku grid, with only rows and columns constraints.
+This Python script solves a relaxed N x N Sudoku grid, with only rows and columns constraints.
 
 ## Input
 The scripts read the following from `stdin` (Standard Input)
