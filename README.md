@@ -11,7 +11,7 @@ For each cell:
 - `1, 2, ... n`.
 - Any non digit characters represents an empty grid
 
-### Examples Input
+### Example Input
 ```
 3
 123
@@ -21,7 +21,7 @@ For each cell:
 
 In the example above, the input is a 3 x 3 grid, with the centre grid empty.
 
-### Examples Output
+### Example Output
 ```
 ---- Input ----
 1 2 3
